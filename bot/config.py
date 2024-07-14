@@ -16,7 +16,7 @@ class TG_CONFIG:
     bot_token = "6969431278:AAFLA9OrvG9Dy1mbaUJETQezR-WuNp-tchw"
 
     #DEVS or #OWNERS
-    sudo_users = [6304211335, 6756781098]
+    sudo_users = [6304211335, 6756781098, 1947565279]
 
     session = "Ott_Downloaders_Bot"
 
